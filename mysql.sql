@@ -1,0 +1,3 @@
+CREATE DATABASE college;
+CREATE DATABASE IF NOT EXISTS college;
+use college;
